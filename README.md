@@ -39,4 +39,4 @@ Then we will run the command in vs code
 
 10. Now click on cart and you will see that all n itemms have been added to the cart.
 
--This was the summary in brief of waht this project does.
+-This was the summary in brief of what this project does.
